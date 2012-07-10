@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty Web App Paradigma", "Empty Web App Paradigma\Empty Web App Paradigma.csproj", "{1261B4BE-10DE-42D0-AE3D-17D1CFD69900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{CE0453F5-45BA-44D1-B10B-977010D9FC9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E6D93265-224B-42D8-B4E6-A18872F98D00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C569852-3CFE-46F0-8840-920FC0AAA350}"
+	ProjectSection(SolutionItems) = preProject
+		Empty Web App Paradigma.vsmdi = Empty Web App Paradigma.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Empty Web App Paradigma.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1261B4BE-10DE-42D0-AE3D-17D1CFD69900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1261B4BE-10DE-42D0-AE3D-17D1CFD69900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1261B4BE-10DE-42D0-AE3D-17D1CFD69900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1261B4BE-10DE-42D0-AE3D-17D1CFD69900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0453F5-45BA-44D1-B10B-977010D9FC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0453F5-45BA-44D1-B10B-977010D9FC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0453F5-45BA-44D1-B10B-977010D9FC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0453F5-45BA-44D1-B10B-977010D9FC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D93265-224B-42D8-B4E6-A18872F98D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D93265-224B-42D8-B4E6-A18872F98D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D93265-224B-42D8-B4E6-A18872F98D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D93265-224B-42D8-B4E6-A18872F98D00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
